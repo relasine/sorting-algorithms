@@ -1,5 +1,5 @@
 {
-  "name": "sorting-algorithms",
+  "name": "@relasine/sorting-algorithms",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
