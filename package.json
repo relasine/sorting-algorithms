@@ -1,0 +1,19 @@
+{
+  "name": "ks-sorting-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/relasine/sorting-algorithms.git"
+  },
+  "author": "Kevin Simpson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/relasine/sorting-algorithms/issues"
+  },
+  "homepage": "https://github.com/relasine/sorting-algorithms#readme"
+}
